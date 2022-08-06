@@ -1,11 +1,11 @@
 import React from "react";
-import PictureOfMe from "../assets/images/PictureOfMe.jpg";
+// import PictureOfMe from "../assets/images/PictureOfMe.jpg";
 
 const About = () => {
   return (
     <section className="content container">
       <div id="about" className="row">
-        <img id="profile-pic" src={PictureOfMe} alt="Profile" className="col" />
+        {/* <img id="profile-pic" src={PictureOfMe} alt="Profile" className="col" /> */}
         <div className="col">
           <h2>About Me</h2>
           <p className="col" id="about-text">

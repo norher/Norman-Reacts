@@ -45,8 +45,8 @@ function Navbar({ currentPage, changePage }) {
           }}
         >
           Contact
-        {/* </a>
-        <a href={Resume} target="_blank" rel="noreferrer noopener">
+        </a>
+        {/* <a href={Resume} target="_blank" rel="noreferrer noopener">
           Resume
         </a> */}
       </div>
