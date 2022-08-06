@@ -1,6 +1,6 @@
 
 import React from "react";
-import Resume from "../assets/Resume.pdf";
+// import Resume from "../assets/Resume.pdf";
 
 function Navbar({ currentPage, changePage }) {
   return (
@@ -45,10 +45,10 @@ function Navbar({ currentPage, changePage }) {
           }}
         >
           Contact
-        </a>
+        {/* </a>
         <a href={Resume} target="_blank" rel="noreferrer noopener">
           Resume
-        </a>
+        </a> */}
       </div>
     </header>
   );
